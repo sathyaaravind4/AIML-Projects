@@ -1,0 +1,6 @@
+DOMAIN: Automobile
+
+CONTEXT: The data concerns city-cycle fuel consumption in miles per gallon to be predicted in terms of 3 multivalued discrete and 5 
+continuous attributes
+
+PROJECT OBJECTIVE: To understand K-means Clustering by applying on the Car Dataset to segment the cars into various categories
