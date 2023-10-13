@@ -1,2 +1,2 @@
 # AIML-Projects
-Repo for sharing all the projects done as part of PGP AIML course
+Repo for sharing all my personal projects on AI/ML area
