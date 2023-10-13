@@ -1,4 +1,4 @@
-# Part A
+**Part A**
 DOMAIN: Medical
 
 CONTEXT: Medical research university X is undergoing a deep research on patients with certain conditions. University has an internal AI team. 
@@ -11,7 +11,8 @@ represented in the data set by six biomechanics attributes derived from the shap
 PROJECT OBJECTIVE: To Demonstrate the ability to fetch, process and leverage data to generate useful predictions by training Supervised 
 Learning algorithms.
 
-# Part B
+
+**Part B**
 
 • DOMAIN: Banking, Marketing
 
